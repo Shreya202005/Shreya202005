@@ -1,109 +1,53 @@
-<h1 align="center">✨ Hi, I'm Shreya ✨</h1>
-<h3 align="center">Cybersecurity Enthusiast | Computer Science Engineering Student</h3>
-
----
-
-### 🚀 About Me
-- 🔐 Exploring **Cybersecurity, IoT & Cloud**
-- 💻 Passionate about **Web Security & Ethical Hacking**
-- 🌱 Currently building **projects with React, TailwindCSS, MongoDB**
-- 🎯 Goal: Create **secure and impactful digital solutions**
-
----
-
-### 🛠️ Tech Stack (Neon Style)
+# ⚡ Terminal Session: Shreya_Tadakala_v1.0
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF&labelColor=111" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=111" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111" />
-  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8&labelColor=111" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00&labelColor=111" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=111" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  <img src="https://img.shields.io/badge/Cloud-000000?style=for-the-badge&logo=icloud&logoColor=00FFFF&labelColor=111" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10B981&width=435&lines=Aspiring+Cybersecurity+Professional;Penetration+Tester;Final+Year+B.E.+Student" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <h3>🔐 SecureWipe Pro</h3>
-  <p>A tool for secure data wiping and IT asset recycling.</p>
-  <a href="https://github.com/Shreya202005/Secure-Wipe">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <h3>🌐 Web Application Pentesting Toolkit</h3>
-  <p>Toolkit with Flask UI to scan and test vulnerabilities.</p>
-  <a href="https://github.com/Shreya202005/Web-Pentesting-Toolkit">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-  <h3>☁️ Cloud Security Posture Management</h3>
-  <p>Visualizing security posture for cloud infrastructure.</p>
-  <a href="https://github.com/Shreya202005/Cloud-Security-Posture-Management">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <h3>📊 Visualizing Threat Intelligence</h3>
-  <p>Data visualization tools for cybersecurity analysts.</p>
-  <a href="https://github.com/Shreya202005/Visualizing-Intelligence-Analysis">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-  <h3>🌍 Portfolio Website</h3>
-  <p>My personal portfolio built with React & Tailwind.</p>
-  <a href="https://github.com/Shreya202005/my-portfolio">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-<td align="center" width="50%">
-  <h3>🛡️ DoS Detection</h3>
-  <p>System for detecting and mitigating denial-of-service attacks.</p>
-  <a href="https://github.com/Shreya202005/DoS-Detection">
-    <img src="https://img.shields.io/badge/View%20Project-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=111" />
-  </a>
-</td>
-</tr>
-</table>
+### 🟢 [SYSTEM_IDENTIFICATION]
+- **Current Role:** Final-year B.E. [cite_start]Computer Science student specializing in Cybersecurity[cite: 4, 35].
+- [cite_start]**Focus:** Penetration testing, threat analysis, and building scalable defenses[cite: 5, 6].
+- [cite_start]**Location:** Hyderabad, India[cite: 29].
 
 ---
 
-### 📊 GitHub Stats (Neon Themed)
+### 🛠️ [SKILL_MATRIX]
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Security** | [cite_start]`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Nessus` `OWASP ZAP` [cite: 9] |
+| **Development** | [cite_start]`Python` `Flask` `Bash` `JavaScript` `React` [cite: 9, 21] |
+| **Infrastructure** | [cite_start]`Linux Security` `AWS` `Azure` `IoT` `Blockchain` [cite: 9] |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreya202005&show_icons=true&theme=radical&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya202005&theme=radical&hide_border=true" height="180px"/>
+---
+
+### 🚀 [REPO_DEPLOYMENT]
+* [cite_start]**[Web App Pentesting Toolkit](https://github.com/Shreya202005/Web-Pentesting-Toolkit)** Custom Flask-based interface for scanning vulnerabilities with automated reporting[cite: 13, 15].
+* [cite_start]**[DoS Detection System](https://github.com/Shreya202005/Dos-Detection)** ML-based detection for denial-of-service traffic patterns[cite: 16, 18].
+* [cite_start]**[Cloud Security Posture Management](https://github.com/Shreya202005/Cloud-Security-Posture-Management)** Visualization tool for cloud misconfigurations using React and Apache Spark[cite: 19, 21].
+
+---
+
+### 📜 [INTEL_LOGS]
+- [cite_start]**Research:** Authored an 8-page paper on Wireless Hacking techniques and countermeasures[cite: 23, 25].
+- [cite_start]**Leadership:** Secretary of the **Cyber Elites Club** at NSAKCET[cite: 47, 48].
+- [cite_start]**Certifications:** Cisco Certified in Ethical Hacking, Cyber Threat Management, and Endpoint Security[cite: 36, 39, 40, 45].
+
+---
+
+### 📊 [THREAT_INTEL_STATS]
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreya202005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya202005&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreya202005/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111" />
-  </a>
-  <a href="mailto:tadakalashreya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111" />
-  </a>
-  <a href="https://shreya202005.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111" />
-  </a>
-</p>
+### 📧 [ESTABLISH_CONNECTION]
+- [cite_start]**LinkedIn:** [Shreya Tadakala](https://linkedin.com/in/shreyatadakala) [cite: 2]
+- [cite_start]**Email:** tadakalashreya@email.com [cite: 2]
+- **Portfolio:** [shreya202005.github.io](https://shreya202005.github.io)
 
 
 
