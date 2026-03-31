@@ -1,24 +1,21 @@
 <div align="center">
 
 ```
-███████╗██╗  ██╗██████╗ ███████╗██╗   ██╗ █████╗ 
-██╔════╝██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
-███████╗███████║██████╔╝█████╗   ╚████╔╝ ███████║
-╚════██║██╔══██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║
-███████║██║  ██║██║  ██║███████╗   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+ ██████╗██╗  ██╗██████╗ ███████╗██╗   ██╗ █████╗     ████████╗ █████╗ ██████╗  █████╗ ██╗  ██╗ █████╗ ██╗      █████╗ 
+██╔════╝██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗    ╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██║     ██╔══██╗
+╚█████╗ ███████║██████╔╝█████╗   ╚████╔╝ ███████║       ██║   ███████║██║  ██║███████║█████╔╝ ███████║██║     ███████║
+ ╚═══██╗██╔══██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║       ██║   ██╔══██║██║  ██║██╔══██║██╔═██╗ ██╔══██║██║     ██╔══██║
+██████╔╝██║  ██║██║  ██║███████╗   ██║   ██║  ██║       ██║   ██║  ██║██████╔╝██║  ██║██║  ██╗██║  ██║███████╗██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-# Shreya Tadakala
 ### Cybersecurity Engineer · Ethical Hacker · Security Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Vulnerability+Assessment+%26+Pen+Testing;SOC+Operations+%26+Threat+Analysis;Cloud+Security+%26+Security+Automation;Breaking+things+to+make+them+stronger+🛡️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Vulnerability+Assessment+%26+Penetration+Testing;SOC+Operations+%26+Threat+Intelligence;Cloud+Security+%26+Security+Automation;OWASP+%7C+MITRE+ATT%26CK+%7C+NIST+Frameworks;Breaking+systems+ethically+so+attackers+can't+🛡️)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadakalashreya@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 
 </div>
 
@@ -26,22 +23,70 @@
 
 ## 🎯 whoami
 
-```bash
-$ cat about.txt
-```
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360" />
+</div>
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Name    : Shreya Tadakala                                      │
-│  Role    : Cybersecurity Engineer (May 2026)                    │
-│  Location: Hyderabad, Telangana, India                          │
-│  Focus   : VAPT | SOC Operations | Cloud Security              │
-│  Status  : Actively seeking Security Analyst / SOC / VAPT role │
-│  GPA     : 9.0/10.0 — Computer Science & Engineering           │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
-> 🔒 *"Cybersecurity is not just a career — it's a mindset. I break systems ethically so real attackers can't."*
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/><br/>
+<b>💀 Pen Testing</b><br/>
+<sub>Offensive Security · VAPT</sub>
+</td>
+<td align="center" width="160">
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80"/><br/>
+<b>🛡️ SOC Operations</b><br/>
+<sub>SIEM · Threat Hunting</sub>
+</td>
+<td align="center" width="160">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/><br/>
+<b>☁️ Cloud Security</b><br/>
+<sub>AWS · Azure · CSPM</sub>
+</td>
+<td align="center" width="160">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80"/><br/>
+<b>🔬 Digital Forensics</b><br/>
+<sub>IR · Malware Analysis</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+
+
+<br/>
+
+<div align="center">
+
+### 🗡️ Offensive &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔒 Defensive
+
+| ⚔️ Pen Testing | 🕵️ VAPT | 🔎 Recon | 💣 Exploit Dev | 🧱 Incident Response | 🧬 Threat Hunting | 📡 SIEM | 🔍 Forensics |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 Frameworks
+
+| ☁️ AWS Security | 🔷 Azure | 📊 CSPM | ⚙️ Automation | 📕 OWASP Top 10 | 🎯 MITRE ATT&CK | 📋 NIST | 🔏 ISO 27001 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> 💀 *"The quieter you become, the more you are able to hear."* 
+
+</div>
 
 ---
 
@@ -77,109 +122,17 @@ $ cat about.txt
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔍 [Web Application Penetration Testing Toolkit](https://github.com/shreya-tadakala)
-> *A comprehensive automated security assessment platform*
-
-```python
-# What this tool does:
-attack_surface = [
-    "Port Scanning (Nmap Integration)",
-    "HTTP Header Security Analysis",
-    "Automated Vulnerability Detection",
-    "PDF + Text Report Generation",
-    "Centralized Results Dashboard"
-]
-efficiency_gain = "40% reduction in manual reconnaissance time"
-```
-
-- 🎯 Built with **Python + Flask** — single unified interface for all recon tasks
-- 📊 Auto-generates professional PDF security reports
-- ⚡ Combines multiple security checks into one workflow
-
----
-
-### ☁️ [Cloud Security Posture Management (CSPM) Tool](https://github.com/shreya-tadakala)
-> *Automated cloud compliance monitoring prototype*
-
-```bash
-$ cspm-scan --target aws --check compliance
-[✓] Scanning cloud configurations...
-[✓] Running automated security checks...
-[✓] Generating real-time dashboard...
-[!] Manual tracking effort reduced by: 50%
-```
-
-- 🔐 Automated cloud security compliance checks
-- 📈 Real-time dashboard for infrastructure visibility
-- 🛡️ Built on **AWS SDK + Flask + Python**
-
----
-
-## 💼 Experience Highlights
-
-```
-Codec Technologies — Cybersecurity & Ethical Hacking Intern
-June 2025 – July 2025 | Hyderabad
-
-✔ Assessed 15+ simulated web apps → found SQL Injection, XSS, Broken Auth
-✔ Analyzed 1000+ network packets via Wireshark → flagged suspicious patterns
-✔ Wrote 20+ OWASP + MITRE ATT&CK mapped security reports
-✔ Executed full pen test cycles: Nmap → Nessus → Metasploit
-```
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Domain |
-|------------|--------|--------|
-| 🛡️ Ethical Hacking | Cisco | Offensive Security |
-| 🌐 Cyber Threat Management | Cisco | Threat Intelligence |
-| 🔧 Network Configurations | Cisco | Network Security |
-| 🤖 Identity for AI Age | Saviynt | IAM / AI Security |
-
----
-
-## 🏆 Leadership
-
-**Secretary — Cyber Elites Club, NSAKCET** *(Aug 2025 – Jan 2026)*
-- 👥 Led **80+ member** cybersecurity organization
-- 📅 Coordinated **15+ technical events** — pen testing, cloud security, blockchain
-- 🎤 Hosted sessions engaging **200+ students** in cybersecurity awareness
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreya-tadakala&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreya202005&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=shreya202005&theme=neon-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6633&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-tadakala&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya202005&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" />
+<img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreya202005&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shreya-tadakala&theme=neon-dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff6e00&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
-</div>
-
----
-
-## 🎯 Currently
-
-```bash
-$ cat current_status.sh
-```
-```bash
-#!/bin/bash
-LEARNING=("Advanced Web App Pentesting" "Cloud Security Architecture" "Malware Analysis")
-PRACTICING=("TryHackMe Labs" "HackTheBox Machines" "PortSwigger Academy")
-SEEKING="Security Analyst | SOC Analyst | VAPT Analyst — Hyderabad"
-GRADUATING="May 2026 — B.E. Computer Science (Cybersecurity Specialization)"
-echo "Open to opportunities: YES 🟢"
-```
-
----
 
 ## 🤝 Let's Connect
 
@@ -192,9 +145,7 @@ echo "Open to opportunities: YES 🟢"
 
 ---
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
-
-![Visitor Count](https://komarev.com/ghpvc/?username=shreya-tadakala&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=shreya202005&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
