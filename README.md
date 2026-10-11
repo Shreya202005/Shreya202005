@@ -9,12 +9,12 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-### Cybersecurity Engineer · Ethical Hacker · Security Researcher
+### Software Engineer · Backend Developer · Automation & Testing
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Vulnerability+Assessment+%26+Penetration+Testing;SOC+Operations+%26+Threat+Intelligence;Cloud+Security+%26+Security+Automation;OWASP+%7C+MITRE+ATT%26CK+%7C+NIST+Frameworks;Breaking+systems+ethically+so+attackers+can't+🛡️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Python+%26+Flask+Backend+Development;REST+API+Design+%26+Development;Automated+Testing+%26+Test+Strategy;CI%2FCD+%7C+Docker+%7C+AWS+%7C+Azure;Building+reliable,+scalable+software+that+ships+🚀)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-tadakala-3a390a33b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://shreya202005-github-io-274a.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadakalashreya@gmail.com)
 
 </div>
@@ -35,23 +35,23 @@
 <tr>
 <td align="center" width="160">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/><br/>
-<b>💀 Pen Testing</b><br/>
-<sub>Offensive Security · VAPT</sub>
+<b>💻 Backend Dev</b><br/>
+<sub>Python · Flask · REST APIs</sub>
 </td>
 <td align="center" width="160">
 <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="80"/><br/>
-<b>🛡️ SOC Operations</b><br/>
-<sub>SIEM · Threat Hunting</sub>
+<b>🧪 Testing & QA</b><br/>
+<sub>Unit · Functional · Automation</sub>
 </td>
 <td align="center" width="160">
 <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80"/><br/>
-<b>☁️ Cloud Security</b><br/>
-<sub>AWS · Azure · CSPM</sub>
+<b>☁️ Cloud & DevOps</b><br/>
+<sub>AWS · Azure · CI/CD · Docker</sub>
 </td>
 <td align="center" width="160">
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80"/><br/>
-<b>🔬 Digital Forensics</b><br/>
-<sub>IR · Malware Analysis</sub>
+<b>📈 Observability</b><br/>
+<sub>Splunk · Logging · Dashboards</sub>
 </td>
 </tr>
 </table>
@@ -62,31 +62,55 @@
 
 <div align="center">
 
-
-
-<br/>
-
-<div align="center">
-
-### 🗡️ Offensive &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔒 Defensive
-
-| ⚔️ Pen Testing | 🕵️ VAPT | 🔎 Recon | 💣 Exploit Dev | 🧱 Incident Response | 🧬 Threat Hunting | 📡 SIEM | 🔍 Forensics |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-### ☁️ Cloud &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 Frameworks
-
-| ☁️ AWS Security | 🔷 Azure | 📊 CSPM | ⚙️ Automation | 📕 OWASP Top 10 | 🎯 MITRE ATT&CK | 📋 NIST | 🔏 ISO 27001 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-</div>
+Computer Science Engineering graduate (GPA 9.0/10.0) who designs, builds, and tests scalable software with **Python, Flask, and REST APIs**.
+I write clean, modular, well-documented code, build automated test suites, and work with Git-based CI/CD workflows alongside engineering, QA, and product teams.
 
 <br/>
 
-<div align="center">
+### 💻 Build &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧪 Quality
 
-> 💀 *"The quieter you become, the more you are able to hear."* 
+| 🐍 Backend Development | 🔌 REST API Design | 🌐 Full-Stack Dev | ⚙️ Automation Scripting | ✅ Unit Testing | 🧩 Functional Testing | 🗺️ Test Strategy Design | 📏 Code Coverage Analysis |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+### ☁️ Cloud & DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 Fundamentals
+
+| ☁️ AWS (boto3) | 🔷 Azure | 🔁 CI/CD Pipelines | 🐳 Docker | 🧠 Data Structures & Algorithms | 🧱 OOP | 🏗️ Scalable System Design | 🔐 Secure Coding (OWASP) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+<br/>
+
+> 💻 *"Make it work, make it right, make it fast."*
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it does | Stack |
+|:---|:---|:---|
+| [**Web Application Security Testing Toolkit**](https://github.com/Shreya202005/Web-Pentesting-Toolkit) | Scalable Flask app with automated scanning/analysis modules, a centralized results dashboard, unit + functional tests, and text/PDF report generation. Cut manual effort by 40%. | Python · Flask · REST APIs · Automated Testing · Git |
+| [**Cloud Security Posture Management (CSPM) Tool**](https://github.com/Shreya202005/Cloud-Security-Posture-Management) | Flask prototype that automates compliance checks with a real-time AWS monitoring dashboard and centralized logging. Cut manual tracking by 50%. | Python · Flask · AWS SDK (boto3) · Cloud APIs · Git |
+
+</div>
+
+---
+
+## 💼 Experience
+
+<div align="center">
+
+**Software Engineering Intern · Codec Technologies, Hyderabad** &nbsp;|&nbsp; Jun 2025 – Jul 2025
+
+</div>
+
+- Built Python-based automation frameworks and testing toolkits for web applications using clean code, modular design, and documentation standards
+- Ran test strategies across **15+ simulated environments**, improving automated coverage and catching critical defects
+- Worked with engineering and QA teams to validate defects, ship fixes, and keep releases stable
+- Wrote **20+ technical reports** on findings, root causes, and remediation plans
+- Used Splunk and log analysis to spot anomalies and drive data-driven improvements
 
 ---
 
@@ -94,29 +118,47 @@
 
 <div align="center">
 
-### 🛠️ Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00B4E6?style=for-the-badge&logo=tenable&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-### 💻 Languages & Dev
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### 🌐 Web & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+**B.E. Computer Science & Engineering** · NSAKCET, Hyderabad · 2022 – 2026 · GPA 9.0/10.0
+<br/>
+Specialization: IoT, Cybersecurity & Blockchain Technology
+
+![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Network_Configurations-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Saviynt](https://img.shields.io/badge/Saviynt-Identity_for_AI_Age-0A66C2?style=for-the-badge)
+
+**Secretary, Cyber Elites Club · NSAKCET** (Aug 2025 – Jan 2026): led an 80+ member technical student organization, coordinated 15+ workshops and events, and hosted sessions for 200+ students.
 
 </div>
 
@@ -132,16 +174,18 @@
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya202005&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&langs_count=8" />
 <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreya202005&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
 
+</div>
 
+---
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-**If you're building something secure, breaking something ethically, or hiring in Hyderabad — let's talk.**
+**If you're building reliable software, automating the boring parts, or hiring a Software Engineer in Hyderabad, let's talk.**
 
 [![Email Me](https://img.shields.io/badge/📧_tadakalashreya@gmail.com-D14836?style=for-the-badge)](mailto:tadakalashreya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-tadakala-3a390a33b/)
 
 ---
 
